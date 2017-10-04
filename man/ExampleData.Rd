@@ -5,13 +5,13 @@
 %%   ~~ data name/kind ... ~~
 }
 \description{
-A simple illustrative data example constisting of 4 highly imbalanced groups. The groups are described be a large number of variables - both informative and noise. The informative variables follows a finite mixture Gaussian distributions.
+A simple illustrative data example constisting of 4 highly imbalanced groups. The groups are described be a large number of variables - both informative and noise. The informative variables follows a finite mixture of Gaussian distributions.
 }
 \usage{data("ExampleData")}
 \format{
   Two objects are uploaded.
   \describe{
-    \item{\code{data}}{A data frame consisting of standartized values with 343 observations and 300 variables. Observations form 4 groups of highly different size. The group structure is given by the first 100 variables and the remaining variables represent noise. }
+    \item{\code{data}}{A data frame consisting of standardized values with 343 observations and 300 variables. The observations form 4 groups of highly different size. The group structure is given by the first 100 variables and the remaining variables represent noise. }
     \item{\code{label}}{A numeric vector reflecting a group memberhip of each observation.}
   }
 }

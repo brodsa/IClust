@@ -2,7 +2,7 @@
 #'
 #' @description 
 #' \code{IClust} is the function which discovers clusters that are of highly different (imbalanced) sizes. 
-#' First, the intial clusters are found by using an existing clustering method. Then,
+#' First, the initial clusters are found by using an existing clustering method. Then,
 #' the merging procedure is applied in order to merge two close clusters. The merging
 #' procedure employs Local Outlier Factor (Breunig et.al, 2000) for assessing if two
 #' clusters can be merged.
@@ -41,8 +41,8 @@
 #' @author Sarka Brodinova <sarka.brodinova@tuwien.ac.at>
 #'
 #' @references S. Brodinova, M. Zaharieva, P. Filzmoser, T. Ortner,
-#' C. Breiteneder. Clustering of imbalanced high-dimensional media data. 
-#' Submitted for publication.
+#' C. Breiteneder. (2017). Clustering of imbalanced high-dimensional media data. 
+#' Advances in Data Analysis and Classification. To appear. Available at http://arxiv.org/abs/1709.10330.
 #'
 #' @references Breunig, M., Kriegel, H., Ng, R., and Sander, J. (2000).
 #' LOF: identifying density-based local outliers.

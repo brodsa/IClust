@@ -2,6 +2,7 @@ Package: IClust
 Type: Package
 Title: Imbalanced clustering
 Version: 0.1.0
+Date: 2017-09-07
 Author: Sarka Brodinova
 Maintainer: Sarka Brodinova <sarka.brodinova@tuwien.ac.at>
 Description: Implements a clustering procedure for identifying groups of highly imbalanced sizes.
@@ -11,3 +12,5 @@ LazyData: true
 RoxygenNote: 6.0.1
 Depends: R (>= 3.4.1)
 Imports: mclust (>= 5.3), cluster (>= 2.0.6)
+URL:http://github/brodsa/IClust
+Packaged: 2017-10-04 21:45:20 UTC; root
