@@ -4,7 +4,7 @@ Title: Imbalanced clustering
 Version: 0.1.0
 Date: 2017-09-07
 Author: Sarka Brodinova
-Maintainer: Sarka Brodinova <sarka.brodinova@tuwien.ac.at>
+Maintainer: Sarka Brodinova <brodinova@gmail.com>
 Description: Implements a clustering procedure for identifying groups of highly imbalanced sizes.
 License: GPL-3
 Encoding: UTF-8
